@@ -56,9 +56,9 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Call Us",
-      value: "+44 (0)7 9551 70009",
-      link: "tel:+447955170009",
-      sub: "Mon-Fri from 8am to 6pm"
+      value: "+971 (0)50 4737 446",
+      link: "tel:+971504737446",
+      sub: "Mon-Fri from 8am to 9pm"
     },
     {
       icon: Mail,
@@ -146,7 +146,7 @@ const Contact = () => {
               </div>
               
               {/* Trade CTA Mini */}
-              <div className="bg-primary text-primary-foreground p-8 rounded-xl shadow-elegant">
+              {/* <div className="bg-primary text-primary-foreground p-8 rounded-xl shadow-elegant">
                 <div className="flex items-start gap-4">
                   <MessageSquare className="w-8 h-8 text-gold mt-1" />
                   <div>
@@ -159,7 +159,7 @@ const Contact = () => {
                     </Button>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
 
             {/* Right Column: Contact Form */}
@@ -191,7 +191,7 @@ const Contact = () => {
 
                     <div className="space-y-2">
                       <Label htmlFor="phone">Phone Number (Optional)</Label>
-                      <Input name="phone" id="phone" type="tel" placeholder="+44 ..." className="bg-muted/30" />
+                      <Input name="phone" id="phone" type="tel" placeholder="+971 ..." className="bg-muted/30" />
                     </div>
 
                     <div className="space-y-2">

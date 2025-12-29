@@ -19,11 +19,10 @@ const HeroSection = () => {
           SANYANG CABINETRY
         </h1>
         <p className="text-2xl md:text-3xl mb-6 leading-relaxed font-light">
-          The Standard of Quality for British Homes.
+          Precision Engineering. Timeless Design. Uncompromising Quality.
         </p>
         <p className="text-lg md:text-xl font-light text-white/90 mb-10 max-w-2xl mx-auto">
-          Supplying premium, ready-to-assemble cabinetry to UK trade
-          professionals and homeowners.
+          Empowering large-scale developments with premium, ready-to-assemble cabinetry delivered with unrivaled precision and industry-leading lead times.
         </p>
 
         <div className="flex flex-col sm:flex-row sm:space-x-4 space-y-4 sm:space-y-0 items-center justify-center">

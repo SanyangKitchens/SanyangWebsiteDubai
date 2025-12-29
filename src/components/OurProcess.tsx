@@ -15,15 +15,15 @@ const steps = [
   },
   {
     icon: Truck,
-    title: "3. UK-Based Logistics",
+    title: "3. UAE-Based Logistics",
     description:
-      "We manage the entire supply chain, ensuring reliable and timely delivery directly to your UK site.",
+      "We manage the entire supply chain, ensuring reliable and timely delivery directly to your warehouse or development site.",
   },
   {
     icon: Users2,
     title: "4. Dedicated Support",
     description:
-      "Your local UK-based partner is here to support you, providing expert assistance for a seamless project.",
+      "Your dedicated partner in excellence—providing world-class consultancy and seamless integration to ensure your vision is realised without compromise.",
   },
 ];
 

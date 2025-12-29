@@ -71,11 +71,11 @@ const Header = () => {
         <div className="max-w-7xl mx-auto flex justify-between items-center text-xs sm:text-sm">
           <div className="flex items-center space-x-4 sm:space-x-6">
             <a
-              href="tel:+447955170009"
+              href="tel:+971504737446"
               className="flex items-center space-x-2 hover:text-gold transition-colors"
             >
               <Phone size={14} />
-              <span>+44 (0)7 9551 70009</span>
+              <span>+971 (0)50 4737 446</span>
             </a>
             <a
               href="mailto:sales@sanyang.co.uk"

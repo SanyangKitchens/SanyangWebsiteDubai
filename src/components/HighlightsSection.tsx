@@ -4,7 +4,7 @@ const highlights = [
   {
     icon: Award,
     title: "Uncompromising Quality. Unbeatable Value.",
-    description: "Premium, all-plywood construction at direct-from-manufacturer prices."
+    description: "Premium & bespoke construction at direct-from-manufacturer prices."
   },
   {
     icon: PoundSterling,
@@ -13,7 +13,7 @@ const highlights = [
   },
   {
     icon: Clock,
-    title: "Your Dedicated UK Partner", 
+    title: "Your Dedicated UAE Partner", 
     description: "Get peace of mind with expert, local assistance available right when you need it."
   }
   

@@ -17,14 +17,13 @@ const TradeCTA = () => {
               A Partner You Can Rely On
             </h2>
             <p className="text-lg md:text-xl text-primary-foreground/80 max-w-3xl mx-auto lg:mx-0">
-              Are you a builder, contractor, or developer? Apply for a trade
-              account today to get access to exclusive pricing, flexible
-              financing, and dedicated UK support.
+              Are you a builder, contractor, or developer? contact us now to get access to exclusive pricing, flexible
+              financing, and dedicated support.
             </p>
           </div>
           <div className="flex-shrink-0 mt-6 lg:mt-0">
             <Button variant="gold" size="lg" asChild>
-              <Link to="/contact">Apply for a Trade Account</Link>
+              <Link to="/contact">Contact Us Now</Link>
             </Button>
           </div>
         </div>
