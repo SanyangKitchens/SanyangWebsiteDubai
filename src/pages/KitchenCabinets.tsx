@@ -12,9 +12,9 @@ import { Package, Layers, Palette } from "lucide-react";
 const features = [
   {
     icon: Package,
-    title: "All-Plywood Construction",
+    title: "Bespoke Construction",
     description:
-      "Our cabinets are built with durable, all-plywood boxes for superior strength and longevity. No particle board.",
+      "Our cabinets are built with durable, MDF or Plywood for superior strength and longevity.",
   },
   {
     icon: Layers,

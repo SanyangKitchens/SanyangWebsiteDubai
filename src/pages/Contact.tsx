@@ -63,8 +63,8 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Us",
-      value: "sales@sanyang.co.uk",
-      link: "mailto:sales@sanyang.co.uk",
+      value: "sales@sanyang.ae",
+      link: "mailto:sales@sanyang.ae",
       sub: "We'll respond within 24 hours"
     },
     // {

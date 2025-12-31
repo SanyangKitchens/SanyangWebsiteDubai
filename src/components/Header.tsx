@@ -78,11 +78,11 @@ const Header = () => {
               <span>+971 (0)50 4737 446</span>
             </a>
             <a
-              href="mailto:sales@sanyang.co.uk"
+              href="mailto:sales@sanyang.ae"
               className="flex items-center space-x-2 hover:text-gold transition-colors"
             >
               <Mail size={14} />
-              <span className="hidden sm:inline">sales@sanyang.co.uk</span>
+              <span className="hidden sm:inline">sales@sanyang.ae</span>
               <span className="sm:hidden">Email Us</span>
             </a>
           </div>
